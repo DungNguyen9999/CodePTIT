@@ -1,0 +1,1 @@
+{"name":"Local: C04042","url":"e:\\Code_PTIT\\C04042.c","tests":[{"id":1711465496037,"input":"2\n7\n10 5 3 4 3 5 6\n4\n1 2 3 4","output":"5\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code_PTIT\\C04042.c","group":"local","local":true}

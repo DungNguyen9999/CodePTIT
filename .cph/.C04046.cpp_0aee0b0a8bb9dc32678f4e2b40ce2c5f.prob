@@ -1,0 +1,1 @@
+{"name":"Local: C04046","url":"e:\\Code_PTIT\\C04046.cpp","tests":[{"id":1711464980379,"input":"2\n4\n6 -3 0 4\n3\n-2 0 2","output":"2 1\n2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code_PTIT\\C04046.cpp","group":"local","local":true}
